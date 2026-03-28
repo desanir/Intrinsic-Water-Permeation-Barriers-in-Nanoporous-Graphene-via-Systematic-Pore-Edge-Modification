@@ -1,0 +1,30 @@
+ENCUT    = 500
+EDIFF    = 1E-6         
+NELM     = 200
+ALGO     = Normal
+ISMEAR   = 0            # graphene: small smearing is safer than tetra
+SIGMA    = 0.05
+LASPH    = .TRUE.
+ADDGRID  = .TRUE.
+LREAL    = Auto      # avoid real-space projection errors in final SCF
+ISYM     = 0
+ISPIN    = 2
+MAGMOM   = 80*0 1 -1 1 -1 1 -1 1 -1 2*0
+
+IBRION   = 2
+ISIF     = 2
+EDIFFG   = -0.01
+NSW      = 300
+
+LDIPOL = .TRUE.
+IDIPOL = 3 
+
+IVDW     = 12
+
+ISTART   = 0
+ICHARG   = 2
+LWAVE    = .FALSE.
+LCHARG   = .FALSE.
+
+KPAR     = 2
+NCORE    = 26

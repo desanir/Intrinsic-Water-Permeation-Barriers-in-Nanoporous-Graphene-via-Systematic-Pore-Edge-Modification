@@ -1,0 +1,284 @@
+slurmstepd: error: *** STEP 3921796.0 ON cn-118-13 CANCELLED AT 2025-11-27T07:47:45 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 3921796 ON cn-118-13 CANCELLED AT 2025-11-27T07:47:45 DUE TO TIME LIMIT ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  000014BFA617CCF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  000014BE36DCD6F0  mkl_blas_avx512_d     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  0000151ABDBE3CF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  000015194E748764  mkl_blas_avx512_d     Unknown  Unknown
+libmkl_avx512.so.  000015194E5C207A  mkl_blas_avx512_x     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  0000149E32B9ECF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  0000149CC37EF74D  mkl_blas_avx512_d     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  000014669B460CF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  000014652C0B16E0  mkl_blas_avx512_d     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  000015348C836CF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  000015331D487754  mkl_blas_avx512_d     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  00001538CF279CF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  000015375FECA72E  mkl_blas_avx512_d     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  000015010870ECF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  000014FF9935F6D8  mkl_blas_avx512_d     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  0000146616059CF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  00001464A86F3C10  mkl_dft_avx512_ga     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  0000152F36537CF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  0000152DC8BD1C1B  mkl_dft_avx512_ga     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  000014A663892CF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  000014A4F5F2CC10  mkl_dft_avx512_ga     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  000014F7503E6CF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  000014F5E103770F  mkl_blas_avx512_d     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  00001504DBD7ACF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  000015036C9CB71E  mkl_blas_avx512_d     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  0000149EA9F9FCF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  0000149D3C639C10  mkl_dft_avx512_ga     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  0000147E691A2CF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  0000147CFB83CC10  mkl_dft_avx512_ga     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  000014C794200CF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  000014C62689AC10  mkl_dft_avx512_ga     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  0000151A668F0CF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  00001518F75416D8  mkl_blas_avx512_d     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  000014F1B41A7CF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  000014F044DF872E  mkl_blas_avx512_d     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  000014754A6C0CF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  00001473DCD5AC10  mkl_dft_avx512_ga     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  0000148F0D9BCCF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  0000148DA0056C1B  mkl_dft_avx512_ga     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  000014DCA13EFCF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  000014DB33A89C1B  mkl_dft_avx512_ga     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  000014CF8A041CF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  000014CE1AC926D8  mkl_blas_avx512_d     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  000014948DDF3CF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  000014931EA446F0  mkl_blas_avx512_d     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  0000154B5153DCF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  00001549E3BE3FA3  mkl_dft_avx512_sc     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  00001553A56C3CF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  0000155237D5DC10  mkl_dft_avx512_ga     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  000014E6D19D6CF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  000014E564070C10  mkl_dft_avx512_ga     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  0000150B8D5A0CF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  0000150A1FC3AC1B  mkl_dft_avx512_ga     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  000014C9422BBCF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  000014C7D2F0C745  mkl_blas_avx512_d     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  0000145DF12C4CF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  0000145C81F15726  mkl_blas_avx512_d     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  0000147552C00CF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  00001473E38516F0  mkl_blas_avx512_d     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  00001464EB00CCF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  000014637BC5D6F7  mkl_blas_avx512_d     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  000014EDBE5F7CF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  000014EC50C91C1B  mkl_dft_avx512_ga     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  0000153A7E5F2CF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  0000153910BA0C1B  mkl_dft_avx512_ga     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  000014F642D0BCF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  000014F4D53A5C10  mkl_dft_avx512_ga     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  000014E455490CF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  000014E2E7B2AC1B  mkl_dft_avx512_ga     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  000014C086206CF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  000014BF188A0C1B  mkl_dft_avx512_ga     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  0000148DAD9BFCF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  0000148C40059C1B  mkl_dft_avx512_ga     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  0000147EC7A8DCF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  0000147D5A127C10  mkl_dft_avx512_ga     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  0000149FC875DCF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  0000149E5ADF7C1B  mkl_dft_avx512_ga     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  000015365D67ACF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  00001534EE2CB76C  mkl_blas_avx512_d     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  0000149803E1BCF0  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  000015549CDB5CF0  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  00001497F4C7ACF0  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  000014C75DC38CF0  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  0000150DBA590CF0  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  000014A06721FCF0  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  000014D62A900CF0  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  000014F5C3E57CF0  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.28.s  0000153FFB4F9CF0  Unknown               Unknown  Unknown
+libmkl_avx512.so.  0000153E8D9F8C0E  mkl_dft_avx512_co     Unknown  Unknown
+
+Stack trace terminated abnormally.

@@ -1,0 +1,37 @@
+ENCUT    = 520
+EDIFF    = 1E-6         
+NELM     = 200
+ALGO     = Normal
+ISMEAR   = 0            # graphene: small smearing is safer than tetra
+SIGMA    = 0.05
+LASPH    = .TRUE.
+ADDGRID  = .TRUE.
+LREAL    = Auto      # avoid real-space projection errors in final SCF
+ISYM     = 0
+
+ISPIN    = 2
+MAGMOM   = 99*0
+
+IMIX = 4
+AMIX = 0.20
+BMIX = 1E-4
+AMIX_MAG = 0.80
+BMIX_MAG = 1E-4
+
+IBRION   = 3
+POTIM    = 0       # fixed step; start small (0.02–0.10), adjust if needed
+IOPT     = 7
+IMAGES   = 5
+SPRING   = -5         # works on modern VASP; if your build complains, use SPRING=5
+LCLIMB   = .TRUE.
+ISIF     = 2
+EDIFFG   = -0.03
+NSW      = 500
+IVDW     = 12
+
+ISTART   = 0
+ICHARG   = 2
+LWAVE    = .FALSE.
+LCHARG   = .FALSE.
+
+KPAR     = 2
